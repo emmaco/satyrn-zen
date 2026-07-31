@@ -1,4 +1,4 @@
-# About our community
+# About satyrn.ai
 
 ## How we work
 

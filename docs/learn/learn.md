@@ -1,5 +1,9 @@
+---
+icon: lucide/brain
+---
+
 # Learn
 
-## Resources
+!!! note ""
 
-## Community-contributed
+    This section contains satyrn.ai learning materials and documentation.

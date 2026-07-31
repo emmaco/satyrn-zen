@@ -17,7 +17,7 @@ site_name = "Satyrn Zen"
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A site for learning about satyrn, building with local AI tools, and sharing workflows."
+site_description = "A site for learning about satyrn, creating with local AI tools, and sharing workflows."
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -51,11 +51,20 @@ nav = [
         { "Engineering system" = "learn/engineering-system.md" },
         { "AI system" = "learn/ai-system.md" },
         { "Taxonomies" = "learn/taxonomy.md" },
+        { "Gallery of Learning Resources" = "learn/learn-community.md" },
         ]
     },
-    { "Create" = "create/create.md" },
-    { "Share" = "share/share.md" },
-    { "Community" = "community/community.md" },
+    { "Create" = [
+        { "Create" = "create/create.md" },
+        { "Gallery of Tutorials" = "create/create-community.md" },
+        ]
+    },
+    { "Share" = [
+        { "Share" = "share/share.md" },
+        { "About satyrn.ai" = "share/about.md" },
+        { "Gallery of External Links" = "share/share-community.md" },
+        ]
+    },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
