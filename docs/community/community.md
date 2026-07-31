@@ -1,4 +1,4 @@
-# Community
+# About our community
 
 ## How we work
 
@@ -7,5 +7,3 @@
 ## Teams
 
 ## Contributor Guide
-
-

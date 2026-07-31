@@ -47,22 +47,18 @@ Copyright &copy; 2026 Carol Willing
 nav = [
     { "Home" = "https://www.satyrn.ai" },
     { "Learn" = [
-        { "AI Ecosystem" = "learn/ai-ecosystem.md" },
-        { "Basics" = "learn/learn.md" },
+        { "Learn" = "learn/learn.md" },
+        { "Engineering system" = "learn/engineering-system.md" },
+        { "AI system" = "learn/ai-system.md" },
+        { "Taxonomy" = "learn/taxonomy.md" },
         ]
     },
-    { "Build" = [
-        { "Basics" = "build/build.md" },
-        ]
-    },
-    { "Share" = [
-        { "Basics" = "share/share.md" },
-        ]
-    },
+    { "Create" = "create/create.md" },
+    { "Share" = "share/share.md" },
     { "Community" = [
-        { "Welcome" = "community/community.md" },
-        { "Get started" = "index.md" },
-        { "Markdown in 5min" = "markdown.md" },
+        { "About" = "community/community.md" },
+        { "Get started" = "community/zensical.md" },
+        { "Markdown in 5min" = "community/markdown.md" },
         ]
     },
 ]
