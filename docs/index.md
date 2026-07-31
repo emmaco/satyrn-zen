@@ -4,7 +4,7 @@ icon: lucide/rocket
 
 # Get started
 
-For full documentation visit [zensical.org](https://zensical.org/docs/).
+To learn more, visit [satyrn.ai](https://satyrn.ai).
 
 ## Commands
 

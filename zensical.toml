@@ -11,13 +11,13 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Satyrn.ai Learn"
+site_name = "Satyrn Zen"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A site for learning about satyrn, local AI tools and workflows."
+site_description = "A site for learning about satyrn, building with local AI tools, and sharing workflows."
 
 # The site_author attribute. This is used in the HTML head element.
 #
@@ -44,10 +44,28 @@ Copyright &copy; 2026 Carol Willing
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+    { "Home" = "https://www.satyrn.ai" },
+    { "Learn" = [
+        { "AI Ecosystem" = "learn/ai-ecosystem.md" },
+        { "Basics" = "learn/learn.md" },
+        ]
+    },
+    { "Build" = [
+        { "Basics" = "build/build.md" },
+        ]
+    },
+    { "Share" = [
+        { "Basics" = "share/share.md" },
+        ]
+    },
+    { "Community" = [
+        { "Welcome" = "community/community.md" },
+        { "Get started" = "index.md" },
+        { "Markdown in 5min" = "markdown.md" },
+        ]
+    },
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -215,12 +233,12 @@ features = [
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-    #"navigation.tabs",
+    "navigation.tabs",
 
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
     # https://zensical.org/docs/setup/navigation/#sticky-navigation-tabs
-    #"navigation.tabs.sticky",
+    "navigation.tabs.sticky",
 
     # A back-to-top button can be shown when the user, after scrolling down,
     # starts to scroll up again.
