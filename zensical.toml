@@ -46,6 +46,7 @@ Copyright &copy; 2026 Carol Willing
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
     { "Home" = "https://www.satyrn.ai" },
+    { "index.md" },
     { "Learn" = [
         { "Learn" = "learn/learn.md" },
         { "Engineering system" = "learn/engineering-system.md" },
