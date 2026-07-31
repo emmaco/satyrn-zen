@@ -45,22 +45,17 @@ Copyright &copy; 2026 Carol Willing
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-    { "Home" = "index.md" },
+    { "Home" = "https://www.satyrn.ai" },
     { "Learn" = [
         { "Learn" = "learn/learn.md" },
         { "Engineering system" = "learn/engineering-system.md" },
         { "AI system" = "learn/ai-system.md" },
-        { "Taxonomy" = "learn/taxonomy.md" },
+        { "Taxonomies" = "learn/taxonomy.md" },
         ]
     },
     { "Create" = "create/create.md" },
     { "Share" = "share/share.md" },
-    { "Community" = [
-        { "About" = "community/community.md" },
-        { "Get started" = "community/zensical.md" },
-        { "Markdown in 5min" = "community/markdown.md" },
-        ]
-    },
+    { "Community" = "community/community.md" },
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
