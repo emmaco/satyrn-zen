@@ -2,6 +2,8 @@
 
 Musings and education
 
+https://willingc.github.io/satyrn-zen/
+
 ## Commands
 
 This site uses pixi for package and task management and zensical for docs.
@@ -11,4 +13,3 @@ clone this repo.
 
 - `pixi run dev` Run a development server
 - `pixi run build` Build the site
-

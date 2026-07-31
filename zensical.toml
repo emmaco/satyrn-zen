@@ -45,7 +45,7 @@ Copyright &copy; 2026 Carol Willing
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-    { "Home" = "https://www.satyrn.ai" },
+    { "Home" = "index.md" },
     { "Learn" = [
         { "Learn" = "learn/learn.md" },
         { "Engineering system" = "learn/engineering-system.md" },
@@ -268,7 +268,7 @@ features = [
 # option in the "theme" subsection. The logo must be a relative path to a file
 # in your "docs_dir", e.g., to use `docs/assets/logo.png` you would set:
 # ----------------------------------------------------------------------------
-#logo = "assets/logo.png"
+logo = "assets/satyrn-logo-light.svg"
 
 # ----------------------------------------------------------------------------
 # If you don't have a dedicated project logo, you can use a built-in icon from
