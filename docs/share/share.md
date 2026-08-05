@@ -10,8 +10,8 @@ icon: lucide/gift
 
 
 Information about how we work, teams, and contributor guidelines can be
-found on our [team compass](https://satyrn-ai.github.com/team-compass).
+found on our [team compass](https://satyrn-ai.github.io/team-compass).
 
-For resources created by the satyrn.ai community for sharing, see [Satyrn.ai Shareshare-satyrn.md.
+For resources created by the satyrn.ai community for sharing, see [Satyrn.ai Share](share-satyrn.md).
 
 For third-party contributed resources, see our [Gallery of External Links](share-community.md).
