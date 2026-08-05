@@ -11,7 +11,7 @@ Clone this repo to your system.
 1. Enter `uvx zensical serve` into your terminal at the root of the repo.
 2. Navigate your browser to <http::/localhost:8000>.
 
-## Contribute to the team compass
+## Contribute to the Satyrn Zen
 
 1. Fork the repo.
 2. Clone your fork to your system.
