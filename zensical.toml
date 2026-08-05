@@ -59,12 +59,13 @@ nav = [
     },
     { "Create" = [
         { "Create" = "create/create.md" },
+        { "Create with Satyrn.ai" = "create/create-satyrn.md" },
         { "Gallery of Tutorials" = "create/create-community.md" },
         ]
     },
     { "Share" = [
         { "Share" = "share/share.md" },
-        { "About satyrn.ai" = "share/about.md" },
+        { "Satyrn.ai Share" = "share/share-satyrn.md" },
         { "Gallery of External Links" = "share/share-community.md" },
         ]
     },
