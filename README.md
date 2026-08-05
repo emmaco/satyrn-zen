@@ -2,7 +2,7 @@
 
 Musings and education
 
-satyrn-ai.github.io/satyrn-zen/
+https://satyrn-ai.github.io/satyrn-zen/
 
 ## Commands
 
