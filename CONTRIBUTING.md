@@ -15,7 +15,7 @@ Clone this repo to your system.
 
 1. Fork the repo.
 2. Clone your fork to your system.
-3. Add a git remote to this repo `git remote add upstream https://github.com/satyrn-ai/team-compass.git`
+3. Add a git remote to this repo `git remote add upstream https://github.com/satyrn-ai/satyrn-zen.git`
 
 ### Run a development server locally
 
