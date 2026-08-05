@@ -47,7 +47,8 @@ docs_dir = "docs"
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-    { "Home" = "index.md" },
+    { "Home" = "https://satyrn.ai" },
+    { "Zen" = "index.md" },
     { "Learn" = [
         { "Learn" = "learn/learn.md" },
         { "Engineering system" = "learn/engineering-system.md" },
