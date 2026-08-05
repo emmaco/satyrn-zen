@@ -1,6 +1,7 @@
 # Welcome to Satyrn Zen
 
-The purpose of this site includes:
+The purpose of this site is to:
+
 - provide **learn**ing materials to understand AI Systems, components, and workflows
 - offer materials to help you **create** and build your ideas with AI tools and local models
 - **share** Satyrn.ai's work and community projects
