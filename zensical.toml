@@ -46,6 +46,8 @@ nav = [
         { "Engineering system" = "learn/engineering-system.md" },
         { "AI system" = "learn/ai-system.md" },
         { "Taxonomies" = "learn/taxonomy.md" },
+        { "Models" = "learn/models.md" },
+        { "Agents and Harnesses" = "learn/agents.md" },
         { "Gallery of Learning Resources" = "learn/learn-community.md" },
         ]
     },
