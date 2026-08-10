@@ -25,10 +25,11 @@ based on the available RAM on your local system:
     Use [Ollama's installation instructions](https://docs.ollama.com/quickstart)
     for your operating system.
 
-1. Run Ollama from the terminal. Type `ollama qwen3.5:2b` in the terminal.
+1. Run the Ollama CLI from the terminal. Type `ollama run qwen3.5:2b` in the terminal. This command will
+   download the model and run it in ollama.
 
     ```sh
-    ollama qwen3.5:2b
+    ollama run qwen3.5:2b
     ```
 
     You should see a list of available commands.
