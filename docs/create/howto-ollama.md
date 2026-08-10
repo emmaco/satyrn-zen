@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide explains how to run a small local modal using Ollama's CLI.
+This guide explains how to run a small local model using Ollama's CLI.
 It is a good starting point for anyone looking to run a local model.
 
 The guide works for any local system since it does not require a GPU
