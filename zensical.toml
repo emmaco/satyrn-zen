@@ -43,6 +43,10 @@ nav = [
     { "Create" = [
         { "Create" = "create/create.md" },
         { "Create with Satyrn.ai" = "create/create-satyrn.md" },
+        { "How-to" = [
+            { "Run a local model with Ollama" = "create/howto-ollama.md" },
+          ]
+        },
         { "Gallery of Tutorials" = "create/create-community.md" },
         ]
     },
