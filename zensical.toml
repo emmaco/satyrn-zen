@@ -28,7 +28,9 @@ nav = [
     { "Zen" = "index.md" },
     { "Learn" = [
         { "Learn" = "learn/learn.md" },
-        { "Engineering system" = "learn/engineering-system.md" },
+        { "Engineering system" = [
+            { "About engineering systems" = "learn/engineering-system.md" },
+        ] },
         { "AI system" = [
             { "What is an AI system" = "learn/ai-system.md" },
             { "What is a token" = "learn/what-token.md" },
@@ -38,6 +40,9 @@ nav = [
         { "Models" = "learn/models.md" },
         { "Agents and Harnesses" = "learn/agents.md" },
         { "Gallery of Learning Resources" = "learn/learn-community.md" },
+        { "Glossary" = [
+            { "Commonly used terms" = "learn/glossary.md" },
+        ]},
         ]
     },
     { "Create" = [
