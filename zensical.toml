@@ -57,7 +57,10 @@ nav = [
     },
     { "Share" = [
         { "Share" = "share/share.md" },
-        { "Satyrn.ai Share" = "share/share-satyrn.md" },
+        { "Satyrn.ai Share" = [
+           { "Satyrn team shares" = "share/share-satyrn.md" },
+           { "Share and find research" = "share/share-research.md" },
+        ]},
         { "Gallery of External Links" = "share/share-community.md" },
         ]
     },
