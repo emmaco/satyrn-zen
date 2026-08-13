@@ -1,10 +1,10 @@
-# Share satyrn.ai
+# Share work from the Satyrn AI team
 
 !!! note "Satyrn.AI recommended resources"
 
-This page contains information that has been created or highly recommended by the satyrn.ai team.
+    This page contains information that has been created by members of the satyrn.ai team.
 
-For resources created by people outside of the Satyrn community, see our [Gallery of External Links](share-community.md).
+    For resources created by people outside of the Satyrn community, see our [Gallery of External Links](share-community.md).
 
 ## Courses, Workshops, and Tutorials
 
