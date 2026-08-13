@@ -2,6 +2,8 @@ name: Docs Preview
 on:
   pull_request:
     types: [opened, synchronize, reopened, closed]
+permissions:
+  contents: write
 
 jobs:
   preview:
