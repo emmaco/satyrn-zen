@@ -108,3 +108,8 @@ based on the available RAM on your local system:
 
 1. Optional: Type another prompt.
 1. Enter `/bye` to exit the prompt and then `ESC` to quit Ollama.
+
+## Next steps
+
+To let a coding agent drive a local model, see
+[How to run a local coding agent with Ollama in Docker](howto-ollama-docker-pi.md).
