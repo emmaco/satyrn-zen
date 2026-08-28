@@ -1,4 +1,4 @@
-# How to add a chat interface to Ollama with Open WebUI
+# How to add a browser chat to Ollama with Open WebUI
 
 ## Overview
 
