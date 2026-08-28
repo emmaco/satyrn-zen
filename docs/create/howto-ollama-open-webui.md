@@ -19,7 +19,7 @@ If you haven't run a local model yet, start with
 
     Open WebUI requires Python 3.11 or 3.12 to be installed to avoid compatibility issues. Refer to Open WebUI documentation for supported versions.
 
-Ollama must be running before you start Open WebUI. If you installed Ollamausing the previous guide it runs automatically in the background. You canconfirm it is running by visiting `http://localhost:11434` in your browser - you should see `Ollama is running`.
+Ollama must be running before you start Open WebUI. If you installed Ollama using the previous guide it runs automatically in the background. You can confirm it is running by visiting `http://localhost:11434` in your browser - you should see `Ollama is running`.
 
 ## Install and run Open WebUI
 
@@ -54,10 +54,15 @@ You need to have pulled at least one model with Ollama before Open WebUI can
 list them. Run `ollama pull qwen3.5:2b` in your terminal, then refresh the
 browser.
 
-### Port 3000 is already in use**
+### Port is already in use
 
-Change the port mapping in the Docker command from `-p 3000:8080` to
-`-p 3001:8080` (or any available port) and open `http://localhost:3001` instead.
+Start Open WebUI on another available port, such as 3001:
+
+```
+open-webui serve --port 3001
+```
+
+Then open `http://localhost:3001` in your browser.
 
 ## Stop and clean up
 
