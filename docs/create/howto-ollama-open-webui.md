@@ -2,8 +2,7 @@
 
 ## Overview
 
-Running Ollama from the CLI is the quickest way to chat with a local model, but
-it requires a terminal. [Open WebUI](https://github.com/open-webui/open-webui) adds a browser-based chat interface on top of your local Ollama instance.
+Using the Ollama CLI from the terminal is the quickest way to chat with a local model. [Open WebUI](https://github.com/open-webui/open-webui) adds a browser-based chat interface on top of your local Ollama instance.
 
 This guide is useful if you want to:
 
