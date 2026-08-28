@@ -15,7 +15,9 @@ This guide is useful if you want to:
 If you haven't run a local model yet, start with
 [How to run a local model with Ollama](howto-ollama.md).
 
-You need Python 3.11 installed, to avoid compatibility issues.
+!!! note "Python version"
+
+    Open WebUI requires Python 3.11 or 3.12 to be installed to avoid compatibility issues. Refer to Open WebUI documentation for supported versions.
 
 Ollama must be running before you start Open WebUI. If you installed Ollamausing the previous guide it runs automatically in the background. You canconfirm it is running by visiting `http://localhost:11434` in your browser - you should see `Ollama is running`.
 
